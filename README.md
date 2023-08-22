@@ -1,0 +1,4 @@
+- prettier 降级
+- eslint 保存自动检测和修改 配置 setting.json
+- prettier 和 eslint 版本冲突
+- husky
