@@ -3,3 +3,4 @@
 - eslint 和 prettier 保存自动检测和修改 配置 setting.json
 - prettier 和 eslint 版本冲突
 - husky
+- commitLint
